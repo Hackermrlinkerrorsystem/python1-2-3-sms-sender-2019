@@ -1,8 +1,6 @@
 import pickle
 import os
 import urllib
-import urllib.parse
-import urllib.request
 import time
 import ssl
 import sys
