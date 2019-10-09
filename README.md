@@ -11,6 +11,6 @@ After Settings update, your data will be stored to new file smssenderdb.pickle. 
 open permission (read, write) for file or folder where is main file is stored.
 
 
-<a href="https://ibb.co/jbRD8x9"><img src="https://i.ibb.co/k51XGrV/Screenshot-2019-10-10-05-20-09-771-com-termux.png" alt="Screenshot-2019-10-10-05-20-09-771-com-termux" border="0"></a>
+<a href="https://ibb.co/jbRD8x9"><img src="https://i.ibb.co/k51XGrV/Screenshot-2019-10-10-05-20-09-771-com-termux.png" 
 
 See you 
