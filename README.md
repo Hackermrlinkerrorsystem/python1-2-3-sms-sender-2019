@@ -1,7 +1,4 @@
-# python1-2-3-sms-sender-2019
-
-
-# python sms sender ( bulk sms )
+# python sms sender ( System sms )
 Python SMS sender with SMS Gateway API. Send SMS messages from Command Line / Terminal
 
 1. Download and run script
@@ -14,7 +11,6 @@ After Settings update, your data will be stored to new file smssenderdb.pickle. 
 open permission (read, write) for file or folder where is main file is stored.
 
 
-![python sms](https://repository-images.githubusercontent.com/183734063/854caf80-68dc-11e9-8694-8ce512b70833)
+![python sms](<a href="https://ibb.co/jbRD8x9"><img src="https://i.ibb.co/k51XGrV/Screenshot-2019-10-10-05-20-09-771-com-termux.png" alt="Screenshot-2019-10-10-05-20-09-771-com-termux" border="0"></a>
 
-
-
+See you 
